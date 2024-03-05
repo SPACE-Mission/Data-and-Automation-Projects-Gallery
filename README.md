@@ -20,7 +20,7 @@ This repository serves as a collection of data automation techniques and solutio
 ### Details of Projects
 ---
 
-# <u>**Project 1: Weekly reporting facilitated through the integration of Microsoft Planner and Power BI**</u>
+### <u>**Project 1: Weekly reporting facilitated through the integration of Microsoft Planner and Power BI**</u>
 
 
 **Problem statement** - Weekly reporting from team members to line managers relied on Microsoft Word templates, leading to manual consolidation efforts for divisional managers. This process lacked efficient project status tracking and consistency in reporting formats across teams. Moreover, limited visibility into ongoing projects hindered opportunities for cross-collaboration.
