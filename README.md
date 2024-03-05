@@ -20,7 +20,8 @@ This repository serves as a collection of data automation techniques and solutio
 ### Details of Projects
 ---
 
-**Project 1: Weekly reporting facilitated through the integration of Microsoft Planner and Power BI**
+## <u>**Project 1: Weekly reporting facilitated through the integration of Microsoft Planner and Power BI**</u>
+
 
 **Problem statement** - Weekly reporting from team members to line managers relied on Microsoft Word templates, leading to manual consolidation efforts for divisional managers. This process lacked efficient project status tracking and consistency in reporting formats across teams. Moreover, limited visibility into ongoing projects hindered opportunities for cross-collaboration.
 
@@ -49,7 +50,8 @@ This repository serves as a collection of data automation techniques and solutio
 
 ---
 
-**Project 2: Automated extraction/download of SAP reports for CAPEX Landing reporting**
+## <u>**Project 2: Automated extraction/download of SAP reports for CAPEX Landing reporting**</u>
+
 
 **Problem statement** - Users frequently encounter prolonged download times while manually downloading reports from SAP, particularly during peak reporting periods like month-end. This can result in timeouts on SAP sessions, causing delays in reporting. Additionally, report extraction often necessitates manual consolidation, preprocessing, and decentralized storage, further complicating the process.
 
@@ -62,3 +64,6 @@ This repository serves as a collection of data automation techniques and solutio
 
 
 **Benefits to the teams:**
+
+- 
+- 
