@@ -3,7 +3,7 @@ Data and Automation Projects Gallery
 
 This repository serves as a collection of data automation techniques and solutions. It is our first step to exploring automation possibilities for the Finance &amp; IS S.P.A.C.E mission. Feel free to dive in and explore the projects in this repository! Happy paddling through the waves of data automation solutions!
 
-### Internal or open source data/automation tools
+## Internal or open source data/automation tools
 ---
 
 | Technology | Icon | Description |
@@ -17,7 +17,7 @@ This repository serves as a collection of data automation techniques and solutio
 | Batch Scripting | ![Batch Scripting](https://img.shields.io/badge/Scripting-Batch-blue?style=flat-square&s=50) | Sequential execution of a series of Microsoft Windows commands. |
 
 
-### Details of Projects
+## Details of Projects
 ---
 
 ### <u>**Project 1: Weekly reporting facilitated through the integration of Microsoft Planner and Power BI**</u>
@@ -50,7 +50,7 @@ This repository serves as a collection of data automation techniques and solutio
 
 ---
 
-## <u>**Project 2: Automated extraction/download of SAP reports for CAPEX Landing reporting**</u>
+### <u>**Project 2: Automated extraction/download of SAP reports for CAPEX Landing reporting**</u>
 
 
 **Problem statement** - Users frequently encounter prolonged download times while manually downloading reports from SAP, particularly during peak reporting periods like month-end. This can result in timeouts on SAP sessions, causing delays in reporting. Additionally, report extraction often necessitates manual consolidation, preprocessing, and decentralized storage, further complicating the process.
