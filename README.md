@@ -28,10 +28,10 @@ This repository serves as a collection of data automation techniques and solutio
 **Automation process** - We have implemented an efficient reporting system using Microsoft Planner, organizing tasks into buckets for easy categorization. Team members now input their weekly tasks, along with relevant details and timelines, to track progress effectively. The resulting reports, generated through Planner templates, seamlessly integrate with Power BI for streamlined consolidation. This allows management to gain a comprehensive, real-time view of team projects and status updates, with the flexibility to explore details at any level of interest. The automation of data transfer from Microsoft Planner to Power BI is facilitated through Microsoft Power Automate.
 
 **Benefits to the teams:**
-- Structured, consistent, and transparent reporting method adopted.
-- Effortless and immediate access to project progress reports through automation.
-- Consolidation can be tailored at various levels and filtered by users in Power BI.
-- Offers personalized insights for a diverse audience.
+- Structured, consistent, and transparent reporting method adopted
+- Effortless and immediate access to project progress reports through automation
+- Consolidation can be tailored at various levels and filtered by users in Power BI
+- Offers personalized insights for a diverse audience
 
 
 **Microsoft Planner navigation**
@@ -42,7 +42,7 @@ This repository serves as a collection of data automation techniques and solutio
 
 
 
-**Resultant Microsoft Power BI example**
+**Consolidated weekly report on Microsoft Power BI**
 
 <p align="center">
   <img src="https://github.com/CarolMmai/Late-Product-Deliveries-Analysis/blob/main/Late%20Product%20Delivery%20Report.gif" width="800" height="450" alt="Late Product Deliveries Report">
@@ -64,7 +64,21 @@ This repository serves as a collection of data automation techniques and solutio
 ![Automated_SAP_report_extraction_Architecture](https://github.com/SPACE-Mission/Data-and-Automation-Projects-Gallery/blob/main/Automated_SAP_report_extraction_Architecture.JPG)
 
 
+**CAPEX Investments and CAPEX Landing Power BI reports**
+
+<p align="center">
+  <img src="https://github.com/SPACE-Mission/Data-and-Automation-Projects-Gallery/blob/main/CAPEX%20Investments.gif" width="800" height="450" alt="CAPEX Investments">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/SPACE-Mission/Data-and-Automation-Projects-Gallery/blob/main/CAPEX%20Landing.gif" width="800" height="450" alt="CAPEX Landing">
+</p>
+
+
 **Benefits to the teams:**
 
-- 
-- 
+- Time saved through automated report retrieval
+- Centralized platform for historical data access
+- Standardized data transformation processes
+- Transition from Excel to dynamic Power BI reporting
