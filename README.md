@@ -23,7 +23,7 @@ This repository serves as a collection of data automation techniques and solutio
 ### <u>**Project 1: Weekly reporting facilitated through the integration of Microsoft Planner and Power BI**</u>
 
 
-**Problem statement** - Weekly reporting from team members to line managers relied on Microsoft Word templates, leading to manual consolidation efforts for divisional managers. This process lacked efficient project status tracking and consistency in reporting formats across teams. Moreover, limited visibility into ongoing projects hindered opportunities for cross-collaboration.
+**Problem** - Weekly reporting from team members to line managers relied on Microsoft Word templates, leading to manual consolidation efforts for divisional managers. This process lacked efficient project status tracking and consistency in reporting formats across teams. Moreover, limited visibility into ongoing projects hindered opportunities for cross-collaboration.
 
 **Automation process** - We have implemented an efficient reporting system using Microsoft Planner, organizing tasks into buckets for easy categorization. Team members now input their weekly tasks, along with relevant details and timelines, to track progress effectively. The resulting reports, generated through Planner templates, seamlessly integrate with Power BI for streamlined consolidation. This allows management to gain a comprehensive, real-time view of team projects and status updates, with the flexibility to explore details at any level of interest. The automation of data transfer from Microsoft Planner to Power BI is facilitated through Microsoft Power Automate.
 
@@ -54,7 +54,7 @@ This repository serves as a collection of data automation techniques and solutio
 ### <u>**Project 2: Automated extraction/download of SAP reports for CAPEX Landing reporting**</u>
 
 
-**Problem statement** - Users frequently encounter prolonged download times while manually downloading reports from SAP, particularly during peak reporting periods like month-end. This can result in timeouts on SAP sessions, causing delays in reporting. Additionally, report extraction often necessitates manual consolidation, preprocessing, and decentralized storage, further complicating the process.
+**Problem** - Users frequently encounter prolonged download times while manually downloading reports from SAP, particularly during peak reporting periods like month-end. This can result in timeouts on SAP sessions, causing delays in reporting. Additionally, report extraction often necessitates manual consolidation, preprocessing, and decentralized storage, further complicating the process.
 
 **Automation process** - The automation process involves an end-to-end pipeline, beginning with the development of Visual Basic Scripts to automate data extraction. To prevent SAP timeouts, reports are divided into smaller segments and later combined using Python programming language, which also handles data preprocessing to make it analysis-friendly. The integrated data is stored in a Microsoft SQL Server database, serving as a structured and centralized data repository. Users can then connect to access clean, high-quality data ready for analysis in Power BI, that was developed as the endpoint of teh pipeline.
 
@@ -88,7 +88,7 @@ This repository serves as a collection of data automation techniques and solutio
 
 ### <u>**Project 3: Use of Microsoft Forms to collect data from external contributors**</u>
 
-**Problem statement** - Prior to implementing the solution, transporters reported vehicle breakdowns via email daily, necessitating manual consolidation into an Excel sheet by the admin clerk. This manual process was time-consuming, prone to errors, and sometimes resulted in delayed reporting. The new solution streamlines the collection of fleet breakdown data from transporters in real-time as incidents occur, eliminating the need for manual consolidation and improving efficiency.
+**Problem** - Prior to implementing the solution, transporters reported vehicle breakdowns via email daily, necessitating manual consolidation into an Excel sheet by the admin clerk. This manual process was time-consuming, prone to errors, and sometimes resulted in delayed reporting. The new solution streamlines the collection of fleet breakdown data from transporters in real-time as incidents occur, eliminating the need for manual consolidation and improving efficiency.
 
 
 **Automation process** - The process begins with creating a Microsoft Form for data collection, featuring customized category lists to streamline transporter responses. The form is designed to minimize text inputs and is publicly accessible, leveraging Microsoft's security measures to safeguard organizational data. A single, reusable link is shared with external contributors, enabling real-time data collection directly linked to an online Excel sheet. This sheet is then integrated into an existing Excel pivot report, allowing for easy refreshing as required.
@@ -112,7 +112,7 @@ This repository serves as a collection of data automation techniques and solutio
 
 ### <u>**Project 4: Gains & Losses Teams Approvals solution**</u>
 
-**Problem statement** - Finance needed high-level approvals for consolidated Gains & Losses from General Managers (GMs) across all departments. The sign-off process required adding observers and creating an approval trail for audit purposes. Previously, these approvals were managed via email, making it challenging to track the sign-offs effectively.
+**Problem** - Finance needed high-level approvals for consolidated Gains & Losses from General Managers (GMs) across all departments. The sign-off process required adding observers and creating an approval trail for audit purposes. Previously, these approvals were managed via email, making it challenging to track the sign-offs effectively.
 
 
 **Automation process** - Gains & Losses reporting was prepared in Power BI with tabs consisting of details for each department, including NBE. These reports were integrated seperately into dynamic Power Point presentations and attached into Teams via the Teams Approvals feature. The people identified as approvers and observers were added onto the routing list and this was sent for signature. Upon submission, a Teams notication was sent to the approvers in sequence of approval requirement and a approval pdf was generated and kept for audit trail upon completion of the approval.
