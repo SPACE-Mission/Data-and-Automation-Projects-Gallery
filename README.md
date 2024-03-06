@@ -3,7 +3,7 @@ Data and Automation Projects Gallery
 
 This repository serves as a collection of data automation techniques and solutions. It is our first step to exploring automation possibilities for the Finance &amp; IS S.P.A.C.E mission. Feel free to dive in and explore the projects in this repository! Happy paddling through the waves of data automation solutions!
 
-## Internal or open source data/automation tools
+## Internal data/automation tools
 
 
 | Technology | Icon | Description |
@@ -82,3 +82,29 @@ This repository serves as a collection of data automation techniques and solutio
 - Centralized platform for historical data access
 - Standardized data transformation processes
 - Transition from Excel to dynamic Power BI reporting
+
+
+---
+
+### <u>**Project 3: Use of Microsoft Forms to collect data from internal and external contributors**</u>
+
+**Problem statement** - Prior to implementing the solution, transporters reported vehicle breakdowns via email daily, necessitating manual consolidation into an Excel sheet by the admin clerk. This manual process was time-consuming, prone to errors, and sometimes resulted in delayed reporting. The new solution streamlines the collection of fleet breakdown data from transporters in real-time as incidents occur, eliminating the need for manual consolidation and improving efficiency.
+
+
+**Automation process** - The process begins with creating a Microsoft Form for data collection, featuring customized category lists to streamline transporter responses. The form is designed to minimize text inputs and is publicly accessible, leveraging Microsoft's security measures to safeguard organizational data. A single, reusable link is shared with external contributors, enabling real-time data collection directly linked to an online Excel sheet. This sheet is then integrated into an existing Excel pivot report, allowing for easy refreshing as required.
+
+
+**The Microsoft Form for Fleet Breakdown data collection**
+
+<p align="center">
+  <img src="https://github.com/SPACE-Mission/Data-and-Automation-Projects-Gallery/blob/main/Fleet%20Breakdown%20data%20collection.gif" width="800" height="450" alt="Fleet Breakdown data collection">
+</p>
+
+
+**Benefits to the teams:**
+
+- Eliminated daily email overload for data collection and manual consolidation
+- Decreased potential for human error in data preparation
+- Reduced time spent on data-related administrative tasks
+- Ensured timely daily reporting and enabled on-demand access to real-time data refreshes
+
