@@ -4,7 +4,7 @@ Data and Automation Projects Gallery
 This repository serves as a collection of data automation techniques and solutions. It is our first step to exploring automation possibilities for the Finance &amp; IS S.P.A.C.E mission. Feel free to dive in and explore the projects in this repository! Happy paddling through the waves of data automation solutions!
 
 ## Internal or open source data/automation tools
----
+
 
 | Technology | Icon | Description |
 |------------|------|-------------|
@@ -40,7 +40,7 @@ This repository serves as a collection of data automation techniques and solutio
   <img src="https://github.com/CarolMmai/Late-Product-Deliveries-Analysis/blob/main/Late%20Product%20Delivery%20Report.gif" width="800" height="450" alt="Late Product Deliveries Report">
 </p>
 
----
+
 
 **Resultant Microsoft Power BI example**
 
@@ -48,7 +48,7 @@ This repository serves as a collection of data automation techniques and solutio
   <img src="https://github.com/CarolMmai/Late-Product-Deliveries-Analysis/blob/main/Late%20Product%20Delivery%20Report.gif" width="800" height="450" alt="Late Product Deliveries Report">
 </p>
 
----
+
 
 ### <u>**Project 2: Automated extraction/download of SAP reports for CAPEX Landing reporting**</u>
 
