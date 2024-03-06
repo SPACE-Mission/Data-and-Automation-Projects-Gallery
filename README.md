@@ -37,7 +37,7 @@ This repository serves as a collection of data automation techniques and solutio
 **Microsoft Planner navigation**
 
 <p align="center">
-  <img src="https://github.com/CarolMmai/Late-Product-Deliveries-Analysis/blob/main/Late%20Product%20Delivery%20Report.gif" width="800" height="450" alt="Late Product Deliveries Report">
+  <img src="https://github.com/SPACE-Mission/Data-and-Automation-Projects-Gallery/blob/main/Microsoft%20Planner%20navigation.gif" width="800" height="450" alt="Microsoft Planner navigation">
 </p>
 
 
@@ -49,6 +49,7 @@ This repository serves as a collection of data automation techniques and solutio
 </p>
 
 
+---
 
 ### <u>**Project 2: Automated extraction/download of SAP reports for CAPEX Landing reporting**</u>
 
