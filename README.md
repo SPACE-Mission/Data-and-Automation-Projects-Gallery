@@ -1,8 +1,7 @@
 Data and Automation Projects Gallery
 ---
 
-🛰️ This repository serves as a collection of data automation techniques and solutions. It is our first step to exploring automation possibilities for the Finance & IS S.P.A.C.E mission. Feel free to dive in and explore the projects in this repository! 🚀 Happy paddling through the waves of data automation solutions! 🌊
-
+This repository serves as a collection of data automation techniques and solutions. It is our first step to exploring automation possibilities for the Finance &amp; IS S.P.A.C.E mission. Feel free to dive in and explore the projects in this repository! Happy paddling through the waves of data automation solutions!
 
 ## Internal data/automation tools
 
@@ -11,11 +10,11 @@ Data and Automation Projects Gallery
 |------------|------|-------------|
 | Microsoft Office 365 | ![Microsoft Office 365](https://img.shields.io/badge/Product-Office_365-blue?logo=microsoft-office-365&logoColor=white&style=flat-square&s=50) | Comprehensive cloud-based Microsoft applications and services. |
 | Power BI | ![Power BI](https://img.shields.io/badge/Analytics-Power_BI-yellow?logo=powerbi&logoColor=white&style=flat-square&s=50) | Data Model and Analysis with Power BI. |
+| Python | ![Python](https://img.shields.io/badge/Programming-Python-blue?logo=python&logoColor=white&style=flat-square&s=50) | Main programming language for data projects. |
+| VBScript | ![VBScript](https://img.shields.io/badge/Scripting-Visual_Basic-blue?logo=visual-studio&logoColor=white&style=flat-square&s=50) | Scripting tasks on Windows-based systems. |
 |Microsoft Power Automate | ![Microsoft Power Automate](https://img.shields.io/badge/Automation-Power_Automate-blue?logo=microsoft-power-automate&logoColor=white&style=flat-square&s=50) | Automation platform for streamlining tasks and processes. |
 | Microsoft SQL Server | ![Microsoft SQL Server](https://img.shields.io/badge/Database-Microsoft_SQL_Server-darkblue?logo=microsoft-sql-server&logoColor=white&style=plastic&s=50) | Relational database management system used for storing, managing, and retrieving data. |
-| VBScript | ![VBScript](https://img.shields.io/badge/Scripting-Visual_Basic-blue?logo=visual-studio&logoColor=white&style=flat-square&s=50) | Scripting tasks on Windows-based systems. |
-| Python | ![Python](https://img.shields.io/badge/Programming-Python-blue?logo=python&logoColor=white&style=flat-square&s=50) | Main programming language for data projects. |
-| Batch Scripting | ![Batch Scripting](https://img.shields.io/badge/Scripting-Batch-blue?style=flat-square&s=50) | Sequential execution of a series of Microsoft Windows commands. |
+
 
 
 ## Details of Projects
@@ -87,7 +86,7 @@ Data and Automation Projects Gallery
 
 ---
 
-### <u>**Project 3: Use of Microsoft Forms to collect data from internal and external contributors**</u>
+### <u>**Project 3: Use of Microsoft Forms to collect data from external contributors**</u>
 
 **Problem statement** - Prior to implementing the solution, transporters reported vehicle breakdowns via email daily, necessitating manual consolidation into an Excel sheet by the admin clerk. This manual process was time-consuming, prone to errors, and sometimes resulted in delayed reporting. The new solution streamlines the collection of fleet breakdown data from transporters in real-time as incidents occur, eliminating the need for manual consolidation and improving efficiency.
 
@@ -108,4 +107,27 @@ Data and Automation Projects Gallery
 - Decreased potential for human error in data preparation
 - Reduced time spent on data-related administrative tasks
 - Ensured timely daily reporting and enabled on-demand access to real-time data refreshes
+
+---
+
+### <u>**Project 4: Gains & Losses Teams Approvals solution**</u>
+
+**Problem statement** - Finance needed high-level approvals for consolidated Gains & Losses from General Managers (GMs) across all departments. The sign-off process required adding observers and creating an approval trail for audit purposes. Previously, these approvals were managed via email, making it challenging to track the sign-offs effectively.
+
+
+**Automation process** - Gains & Losses reporting was prepared in Power BI with tabs consisting of details for each department, including NBE. These reports were integrated seperately into dynamic Power Point presentations and attached into Teams via the Teams Approvals feature. The people identified as approvers and observers were added onto the routing list and this was sent for signature. Upon submission, a Teams notication was sent to the approvers in sequence of approval requirement and a approval pdf was generated and kept for audit trail upon completion of the approval.
+
+**Microsoft Teams Approvals**
+
+<p align="center">
+  <img src="https://github.com/SPACE-Mission/Data-and-Automation-Projects-Gallery/blob/main/Gains%20%26%20Losses%20Approvals%20demonstration.gif" width="800" height="450" alt="Gains & Losses Approvals demonstration">
+</p>
+
+
+**Benefits to the team:**
+
+- Utilized Dynamic Power BI seamlessly integrated into an existing PowerPoint layout
+- Streamlined approval process through interactive Teams Approvals feature
+- Exported PDF approvals for audit trail purposes
+- Incorporated reminder functionality within the Approvals feature for added convenience
 
