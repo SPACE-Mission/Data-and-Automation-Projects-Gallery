@@ -18,7 +18,7 @@ This repository serves as a collection of data automation techniques and solutio
 
 
 ## Details of Projects
----
+
 
 ### <u>**Project 1: Weekly reporting facilitated through the integration of Microsoft Planner and Power BI**</u>
 
