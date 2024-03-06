@@ -126,7 +126,7 @@ This repository serves as a collection of data automation techniques and solutio
 
 **Benefits to the team:**
 
-- Utilized Dynamic Power BI seamlessly integrated into an existing PowerPoint layout
+- Utilized dynamic Power BI seamlessly integrated into an existing PowerPoint layout
 - Streamlined approval process through interactive Teams Approvals feature
 - Exported PDF approvals for audit trail purposes
 - Incorporated reminder functionality within the Approvals feature for added convenience
