@@ -28,13 +28,6 @@ Data and Automation Projects Gallery
 
 **Automation process** - We have implemented an efficient reporting system using Microsoft Planner, organizing tasks into buckets for easy categorization. Team members now input their weekly tasks, along with relevant details and timelines, to track progress effectively. The resulting reports, generated through Planner templates, seamlessly integrate with Power BI for streamlined consolidation. This allows management to gain a comprehensive, real-time view of team projects and status updates, with the flexibility to explore details at any level of interest. The automation of data transfer from Microsoft Planner to Power BI is facilitated through Microsoft Power Automate.
 
-**Benefits to the team:**
-- Structured, consistent, and transparent reporting method adopted
-- Effortless and immediate access to project progress reports through automation
-- Consolidation can be tailored at various levels and filtered by users in Power BI
-- Offers personalized insights for a diverse audience
-
-
 **Microsoft Planner navigation**
 
 <p align="center">
@@ -49,7 +42,12 @@ Data and Automation Projects Gallery
   <img src="https://github.com/SPACE-Mission/Data-and-Automation-Projects-Gallery/blob/main/MS%20Planner%20Power%20BI%20report.gif" width="800" height="450" alt="MS Planner navigation">
 </p>
 
-
+**Benefits to the team:**
+- Structured, consistent, and transparent reporting method adopted
+- Effortless and immediate access to project progress reports through automation
+- Consolidation can be tailored at various levels and filtered by users in Power BI
+- Offers personalized insights for a diverse audience
+  
 ---
 
 ### <u>**Project 2: Automated extraction/download of SAP reports for CAPEX Landing reporting**</u>
