@@ -6,7 +6,7 @@ Data and Automation Projects Gallery
 ## Internal data/automation tools
 
 
-| Technology       | Icon | Description |
+| Technology             | Icon | Description |
 |------------------|------|-------------|
 | Microsoft Office 365 | ![Microsoft Office 365](https://img.shields.io/badge/Product-Office_365-blue?logo=microsoft-office-365&logoColor=white&style=flat-square&s=50) | Comprehensive cloud-based Microsoft applications and services. |
 | Power BI | ![Power BI](https://img.shields.io/badge/Analytics-Power_BI-yellow?logo=powerbi&logoColor=white&style=flat-square&s=50) | Data Model and Analysis with Power BI. |
