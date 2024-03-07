@@ -55,7 +55,7 @@ Data and Automation Projects Gallery
 
 **Problem statement** - Users frequently encounter prolonged download times while manually downloading reports from SAP, particularly during peak reporting periods like month-end. This can result in timeouts on SAP sessions, causing delays in reporting. Additionally, report extraction often necessitates manual consolidation, preprocessing, and decentralized storage, further complicating the process.
 
-**Automation process** - The automation process involves an end-to-end pipeline, beginning with the development of Visual Basic Scripts to automate data extraction. To prevent SAP timeouts, reports are divided into smaller segments and later combined using Python programming language, which also handles data preprocessing to make it analysis-friendly. The integrated data is stored in a Microsoft SQL Server database, serving as a structured and centralized data repository. Users can then connect to access clean, high-quality data ready for analysis in Power BI, that was developed as the endpoint of teh pipeline.
+**Automation process** - The automation process involves an end-to-end pipeline, beginning with the development of Visual Basic Scripts to automate data extraction. To prevent SAP timeouts, reports are divided into smaller segments and later combined using Python programming language, which also handles data preprocessing to make it analysis-friendly. The integrated data is stored in a Microsoft SQL Server database, serving as a structured and centralized data repository. Users can then connect to access clean, high-quality data ready for analysis in Power BI, that was developed as the endpoint of the pipeline.
 
 
 **Automation architecture:**
