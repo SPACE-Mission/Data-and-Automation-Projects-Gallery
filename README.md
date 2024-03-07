@@ -65,13 +65,13 @@ Data and Automation Projects Gallery
 ![Automated_SAP_report_extraction_Architecture](https://github.com/SPACE-Mission/Data-and-Automation-Projects-Gallery/blob/main/Automated_SAP_report_extraction_Architecture.JPG)
 
 
-**CAPEX Investments and CAPEX Landing Power BI reports**
+**CAPEX Investments Power BI report**
 
 <p align="center">
   <img src="https://github.com/SPACE-Mission/Data-and-Automation-Projects-Gallery/blob/main/CAPEX%20Investments.gif" width="800" height="450" alt="CAPEX Investments">
 </p>
 
-
+**CAPEX Landing Power BI report**
 <p align="center">
   <img src="https://github.com/SPACE-Mission/Data-and-Automation-Projects-Gallery/blob/main/CAPEX%20Landing.gif" width="800" height="450" alt="CAPEX Landing">
 </p>
