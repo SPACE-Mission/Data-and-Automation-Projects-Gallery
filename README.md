@@ -46,7 +46,7 @@ Data and Automation Projects Gallery
 **Consolidated weekly report on Microsoft Power BI**
 
 <p align="center">
-  <img src="[https://github.com/CarolMmai/Late-Product-Deliveries-Analysis/blob/main/Late%20Product%20Delivery%20Report.gif](https://github.com/SPACE-Mission/Data-and-Automation-Projects-Gallery/blob/main/MS%20Planner%20Power%20BI%20report.gif)" width="800" height="450" alt="MS Planner navigation">
+  <img src="https://github.com/SPACE-Mission/Data-and-Automation-Projects-Gallery/blob/main/MS%20Planner%20Power%20BI%20report.gif" width="800" height="450" alt="MS Planner navigation">
 </p>
 
 
