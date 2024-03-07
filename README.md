@@ -12,7 +12,7 @@ Data and Automation Projects Gallery
 | Power BI | ![Power BI](https://img.shields.io/badge/Analytics-Power_BI-yellow?logo=powerbi&logoColor=white&style=flat-square&s=50) | Data Model and Analysis with Power BI. |
 | Python | ![Python](https://img.shields.io/badge/Programming-Python-blue?logo=python&logoColor=white&style=flat-square&s=50) | Main programming language for data projects. |
 | VBScript | ![VBScript](https://img.shields.io/badge/Scripting-Visual_Basic-purple?logo=visual-studio&logoColor=white&style=flat-square&s=50) | Scripting tasks on Windows-based systems. |
-|Microsoft Power Automate | ![Microsoft Power Automate](https://img.shields.io/badge/Automation-Power_Automate-grey?logo=microsoft-power-automate&logoColor=white&style=flat-square&s=50) | Automation platform for streamlining tasks and processes. |
+|Microsoft Power Automate | ![Microsoft Power Automate](https://img.shields.io/badge/Automation-Power_Automate-darkgreen?logo=microsoft-power-automate&logoColor=white&style=flat-square&s=50) | Automation platform for streamlining tasks and processes. |
 | Microsoft SQL Server | ![Microsoft SQL Server](https://img.shields.io/badge/Database-Microsoft_SQL_Server-blue?logo=microsoft-sql-server&logoColor=white&style=flat-square&s=100) | Relational database management system used for storing, managing, and retrieving data. |
 
 
